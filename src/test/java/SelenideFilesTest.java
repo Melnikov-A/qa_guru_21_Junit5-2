@@ -1,0 +1,2 @@
+public class SelenideFilesTest {
+}
