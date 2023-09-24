@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "country": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe"
+  },
+  {
+    "id": 2,
+    "country": "Australia",
+    "capital": "Canberra",
+    "continent": "Australia"
+  },
+  {
+    "id": 3,
+    "country": "Brazil",
+    "capital": "Brazilia",
+    "continent": "South America"
+  }
+]
